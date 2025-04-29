@@ -1,9 +1,9 @@
-title: ""
-description: ""
-
+title: ""  # removes big name
+description: ""  # removes subtitle
 theme: jekyll-theme-minimal
 
-# Custom navigation links
+show_downloads: false  # hides GitHub profile link
+
 navigation:
   - title: Home
     url: /
