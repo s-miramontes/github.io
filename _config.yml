@@ -1,3 +1,5 @@
+remote_theme: mmistakes/minimal-mistakes
+
 title: Silvia Miramontes
 email: silvia.miramontes@ucsf.edu
 description: >-
@@ -25,8 +27,6 @@ author:
       icon: "fas fa-file"
       url: "/assets/SilviaMiramontes_CV.pdf"
 
-# Theme
-theme: minimal-mistakes-jekyll
 
 # Navigation
 nav:
