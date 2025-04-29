@@ -1,52 +1,13 @@
-remote_theme: mmistakes/minimal-mistakes
-
 title: Silvia Miramontes
-email: silvia.miramontes@ucsf.edu
-description: >-
-  Clinical Data Scientist | RWE • ML • EHR. I build interpretable, data-driven tools using longitudinal clinical data to advance healthcare research.
+description: Clinical Data Scientist | RWE • ML • EHR
 
-# Site settings
-url: "https://s-miramontes.github.io"
-baseurl: "" # leave this blank for GitHub Pages root
+theme: jekyll-theme-minimal
 
-# Author settings
-author:
-  name: Silvia Miramontes
-  avatar: /assets/profile.jpg # optional
-  bio: Versatile scientist trained in clinical informatics, machine learning, and epidemiology.
-  location: San Francisco, CA
-  email: your.email@domain.com
-  links:
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/s-miramontes"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://linkedin.com/in/YOURHANDLE"
-    - label: "CV"
-      icon: "fas fa-file"
-      url: "/assets/SilviaMiramontes_CV.pdf"
-
-
-# Navigation
-nav:
-  - title: "Home"
+# Custom navigation links
+navigation:
+  - title: Home
     url: /
-  - title: "About"
-    url: /about/
-  - title: "Projects"
+  - title: Projects
     url: /projects/
-  - title: "CV"
+  - title: CV
     url: /assets/SilviaMiramontes_CV.pdf
-    
-# Set landing page to your About or Projects page instead of blog
-# Pick one of these:
-defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: single
-
-# Or if using a custom home page like /index.html:
-# Remove or comment out "paginate: 5"
