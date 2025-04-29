@@ -6,15 +6,15 @@ permalink: /projects/
 
 # Selected Projects
 
-## Early Detection of Cognitive Impairment (UCSF EHR)
+## Early Detection of Cognitive Impairment
 
 Used clinical notes and structured EHR data to predict Mild Cognitive Impairment earlier than formal diagnosis using machine learning and NLP. Integrated longitudinal visit-level features and demographics to improve model interpretability.
 
 ## Clinical Diagnostic Trajectories
 
-Modeled diagnostic switching patterns (e.g., MCI → Dementia → MCI) using logistic regression and random forests. Explored diagnostic instability and its relationship to comorbidities, clinic type, and sociodemographic factors.
+Modeled diagnostic switching patterns using logistic regression and random forests. Explored diagnostic instability and its relationship to comorbidities, clinic type, and sociodemographic factors.
 
-## Social Determinants of Health via Clinical Notes
+## Extracting Social Determinants of Health from Clinical Notes
 
 Used cTAKES to extract mentions of housing and food insecurity from unstructured notes. Refined Named Entity Recognition (NER) pipelines to identify SDOH factors from real-world EHR text data.
 
