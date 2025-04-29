@@ -38,3 +38,15 @@ nav:
     url: /projects/
   - title: "CV"
     url: /assets/SilviaMiramontes_CV.pdf
+    
+# Set landing page to your About or Projects page instead of blog
+# Pick one of these:
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+
+# Or if using a custom home page like /index.html:
+# Remove or comment out "paginate: 5"
