@@ -3,9 +3,13 @@ layout: default
 title: Silvia Miramontes
 ---
 
+<p align="center">
+  <img src="/assets/images/bio-photo.jpeg" alt="Silvia Miramontes" width="180"/>
+</p>
+
 # Silvia Miramontes
 
-**Clinical Data Scientist | Real-World Evidence | Machine Learning | Epidemiology**
+Clinical Data Scientist | Real-World Evidence | Machine Learning | Epidemiology
 
 Welcome! I’m a research data scientist trained in clinical informatics, machine learning, and epidemiology. I specialize in real-world data, disease modeling, and natural language processing using EHRs and clinical notes.
 
